@@ -1,0 +1,22 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-bundler
+rubygem-devise
+rubygem-diff-lcs
+rubygem-ethon
+rubygem-faraday
+rubygem-ffi
+rubygem-guard-rspec
+rubygem-multipart-post
+rubygem-rack
+rubygem-rack-protection
+rubygem-rake
+rubygem-rdoc
+rubygem-rspec
+rubygem-rspec-core
+rubygem-rspec-expectations
+rubygem-rspec-mocks
+rubygem-rspec-support
+rubygem-sinatra
+rubygem-tilt
