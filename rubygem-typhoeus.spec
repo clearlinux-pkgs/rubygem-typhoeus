@@ -4,7 +4,7 @@
 #
 Name     : rubygem-typhoeus
 Version  : 0.7.2
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/typhoeus-0.7.2.gem
 Source0  : https://rubygems.org/downloads/typhoeus-0.7.2.gem
 Summary  : No detailed summary available
