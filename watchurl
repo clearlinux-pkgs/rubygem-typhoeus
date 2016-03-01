@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-03-01 17:06:03.545624
+# {'development', '>=0.5.0'}
+watchurl=https://rubygems.org/gems/typhoeus/versions/([0-9]+(\.[0-9]+)?(\.[0-9]+)?)
